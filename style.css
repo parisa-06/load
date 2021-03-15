@@ -1,0 +1,81 @@
+#loading {
+    width: 100%;
+    height: 1000px;
+    position: relative;
+    background-color: salmon;
+}
+
+#demo {
+    width: 150px;
+    height: 70px;
+    background-color: red;
+    display: none;
+    /* position: absolute; */
+    position: relative;
+    z-index: 100;
+}
+
+#test1 {
+    background-color: royalblue;
+    display: block;
+    width: 100px;
+    height: 150px;
+     /* top: 30px;  */
+    /* position: absolute; */
+    position: relative;
+    margin:15px ;
+}
+
+#test2 {
+    width: 100px;
+    height: 100px;
+    background-color: saddlebrown;
+    /* position: absolute; */
+    position: relative;
+    /* top: 10px; */
+}
+
+#test3 {
+    width: 50px;
+    height: 50px;
+    background-color: springgreen;
+    /* position: absolute; */
+    /* top: 10px; */
+    position: relative;
+    margin: 50px;
+    z-index: 10;
+}
+
+#btn {
+    width: 100%;
+    height: 100%;
+}
+
+#test4 {
+    width: 90px;
+    height: 20px;
+    /* position: absolute; */
+    /* top: 10px; */
+    position: relative;
+    left: 0px;
+}
+
+#inputMe {
+    width: 100%;
+    height: 100%;
+}
+
+#test5 {
+    width: 200px;
+    height: 200px;
+    /* position: absolute; */
+    top: 10px;
+    left: 0px;
+    position: relative;
+    background-color: chartreuse;
+}
+.text{
+    width: 100%;
+    height: 100%;
+    background-color: aquamarine;
+}
